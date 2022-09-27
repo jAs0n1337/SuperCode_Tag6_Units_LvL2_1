@@ -1,0 +1,42 @@
+* {
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+section {
+    font-size: 1.75rem;
+    border: 5px solid black;
+
+}
+
+ul {
+    padding-inline-start: 1.2em;
+    font-size: 0.8em;
+}
+
+li {
+    line-height: 1.5em;
+}
+
+.dog__emote {
+    list-style: "🐶";
+}
+
+.cat__emote {
+    list-style: "🐱";
+}
+
+.parrot__emote {
+    list-style: "🦜";
+}
+
+.snake__emote {
+    list-style: "🐍";
+}
+
+.lizzard__emote {
+    list-style: "🦎";
+}
